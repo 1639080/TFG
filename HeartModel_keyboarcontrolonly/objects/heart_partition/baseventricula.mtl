@@ -1,0 +1,6 @@
+newmtl Material
+newmtl place_holder
+Ka 0.000 0.000 0.000
+Kd 0.800 0.800 0.800
+Ks 0.500 0.500 0.500
+map_Kd texture_ventricula.png
